@@ -22,6 +22,10 @@ const guild = {
   // The guild's token: a million boond (drops) make a chai.
   denom: {6: 'chai', 0: 'boond'},
 
+  // The language the guild plays in, for guild.json: an upper-case two-letter
+  // code (the guild crawler takes a missing one as EN).
+  language: 'HI',
+
   // The site's hostname.
   host: 'galaxyandsons.structs.zone',
   // Onboarding telemetry's interface name: a guild accepts only
@@ -42,6 +46,7 @@ function guildJson() {
       tag: guild.tag,
       logo: `https://${guild.host}${guild.logo}`,
       webapp: guild.host,
+      language: guild.language,
       website: `https://${guild.host}`,
       recruiting: {status: 'open'},
       socials: {
