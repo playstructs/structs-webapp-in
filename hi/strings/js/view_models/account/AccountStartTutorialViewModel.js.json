@@ -1,0 +1,7 @@
+{
+  "view.headerBtnLabel = 'Combat Tutorial';": "view.headerBtnLabel = 'युद्ध प्रशिक्षण';",
+  "view.messageHeaderText = 'Start Tutorial?';": "view.messageHeaderText = 'प्रशिक्षण शुरू करें?';",
+  "'Your Structs will continue to operate normally in the background. You can exit the tutorial at any time from the main menu.'": "'इस दौरान आपके स्ट्रक्ट पहले की तरह काम करते रहेंगे। प्रशिक्षण मुख्य मेन्यू से कभी भी छोड़ा जा सकता है।'",
+  "view.confirmBtn1Label = 'Start Tutorial';": "view.confirmBtn1Label = 'शुरू करें';",
+  "view.confirmBtn2Label = 'Cancel';": "view.confirmBtn2Label = 'रद्द करें';"
+}

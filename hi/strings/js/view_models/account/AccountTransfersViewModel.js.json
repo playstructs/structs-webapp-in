@@ -1,0 +1,5 @@
+{
+  "<span class=\"sui-text-header\">Send Alpha</span>": "<span class=\"sui-text-header\">अल्फ़ा भेजें</span>",
+  "<span class=\"sui-text-header\">Transaction History</span>": "<span class=\"sui-text-header\">हिस्ट्री</span>",
+  "MenuPage.setPageTemplateHeaderBtn('Transfers',": "MenuPage.setPageTemplateHeaderBtn('ट्रांसफ़र',"
+}

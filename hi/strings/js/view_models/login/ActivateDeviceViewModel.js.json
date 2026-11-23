@@ -1,0 +1,10 @@
+{
+  "'Activation Code is invalid or has expired.'": "'एक्टिवेशन कोड ग़लत है या उसका समय ख़त्म हो गया है।'",
+  "'Activate Device'": "'डिवाइस जोड़ें'",
+  "<div>To receive an activation code, go to <span class=\"sui-text-secondary\">Account > Devices</span> on any logged in device.</div>": "<div>एक्टिवेशन कोड पाने के लिए किसी लॉग इन डिवाइस पर <span class=\"sui-text-secondary\">अकाउंट > डिवाइस</span> में जाएँ।</div>",
+  "<span>Activation Code</span>": "<span>एक्टिवेशन कोड</span>",
+  "placeholder=\"Enter Code\"": "placeholder=\"कोड डालें\"",
+  ">Submit</button>": ">भेजें</button>",
+  "<div>Not logged in anywhere else?</div>": "<div>किसी और डिवाइस पर लॉग इन नहीं है?</div>",
+  "Log In With Recovery Key": "रिकवरी कुंजी से लॉग इन"
+}

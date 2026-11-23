@@ -1,0 +1,13 @@
+{
+  "options.headerBtnLabel = 'Transferring...';": "options.headerBtnLabel = 'भेजा जा रहा है…';",
+  "'The transfer continues if you leave this screen.'": "'यह स्क्रीन छोड़ने पर भी ट्रांसफ़र जारी रहेगा।'",
+  "'Confirmed on chain. Your transfer history has not caught up yet; check it again shortly.'": "'ट्रांसफ़र पक्का हो गया। हिस्ट्री अभी अपडेट नहीं हुई है, थोड़ी देर बाद फिर देखें।'",
+  "let html = 'Non-Player Address';": "let html = 'गैर-प्लेयर पता';",
+  ": 'Name Redacted';": ": 'नाम गुप्त';",
+  "MenuPage.setPageTemplateHeaderBtn('Confirm Transfer',": "MenuPage.setPageTemplateHeaderBtn('ट्रांसफ़र की पुष्टि',",
+  "sui-text-header\">Transaction Details</div>": "sui-text-header\">ट्रांसफ़र की जानकारी</div>",
+  "<div>Amount</div>": "<div>मात्रा</div>",
+  "<div>Recipient</div>": "<div>प्राप्तकर्ता</div>",
+  ">Cancel</a>": ">रद्द करें</a>",
+  ">Transfer Now</a>": ">अभी भेजें</a>"
+}

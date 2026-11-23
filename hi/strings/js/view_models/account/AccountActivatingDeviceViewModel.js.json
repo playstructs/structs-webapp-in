@@ -1,0 +1,6 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('नया डिवाइस जोड़ें');",
+  "alt=\"3 dots loading animation\"": "alt=\"लोडिंग के तीन बिंदु\"",
+  "Activating device<br>": "डिवाइस जोड़ा जा रहा है…<br>",
+  "<span class=\"sui-text-warning\">Do not close this screen.</span>": "<span class=\"sui-text-warning\">यह स्क्रीन बंद न करें।</span>"
+}

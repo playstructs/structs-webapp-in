@@ -1,0 +1,9 @@
+{
+  "'Activate Device'": "'डिवाइस जोड़ें'",
+  "alt=\"3 dots loading animation\"": "alt=\"लोड हो रहा है\"",
+  "<span>Please review and confirm the activation request on your logged-in device.</span>": "<span>अपने लॉग इन डिवाइस पर यह अनुरोध देखें और मंज़ूर करें।</span>",
+  ">Do not close this screen.</span>": ">यह स्क्रीन बंद न करें।</span>",
+  ">DEVICE SEAL</div>": ">डिवाइस मुहर</div>",
+  "data-sui-tooltip=\"Ensure this matches the new device's seal on your other device.\"": "data-sui-tooltip=\"मिला लें कि यह मुहर और दूसरे डिवाइस पर दिख रही नए डिवाइस की मुहर एक ही है।\"",
+  ">What's this?</a>": ">यह क्या है?</a>"
+}

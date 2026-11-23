@@ -1,0 +1,10 @@
+{
+  "          Address ${playerSearchResultDTO.address}\n": "          अकाउंट पता ${playerSearchResultDTO.address}\n",
+  ": 'Name Redacted'": ": 'नाम गुप्त'",
+  ">View</a>": ">देखें</a>",
+  "`<div>Guild has no members yet.</div>`": "`<div>गिल्ड में अभी कोई मेंबर नहीं है।</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Member Roster',": "MenuPage.setPageTemplateHeaderBtn('मेंबर लिस्ट',",
+  "$keep": [
+    "PID #"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "alt=\"3 dots loading animation\"": "alt=\"लोड हो रहा है\"",
+  "? 'Event Results'": "? 'इवेंट के नतीजे'",
+  ": `<span id=\"${this.remainingId}\">${SectorBlitzFormat.remaining(this.sectorBlitzManager.getMsRemaining())}</span> Remaining`;": ": `बाकी: <span id=\"${this.remainingId}\">${SectorBlitzFormat.remaining(this.sectorBlitzManager.getMsRemaining())}</span>`;",
+  "<span class=\"sui-text-header\">Event Rules</span>": "<span class=\"sui-text-header\">इवेंट के नियम</span>",
+  "<div class=\"sector-blitz-empty\">Sector data is currently unavailable.</div>": "<div class=\"sector-blitz-empty\">सेक्टर का डेटा अभी उपलब्ध नहीं है।</div>"
+}

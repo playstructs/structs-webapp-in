@@ -1,0 +1,5 @@
+{
+  ">Victory!</strong> The enemy\\'s planetary shield has been defeated.'": ">जीत आपकी!</strong> दुश्मन की ग्रह शील्ड चकनाचूर हो गई।'",
+  "`You recovered <strong class=\"sui-text-primary\">${this.alphaOreRecovered} Alpha Ore</strong> from the enemy base.`": "`दुश्मन के बेस से <strong class=\"sui-text-primary\">${this.alphaOreRecovered} अल्फ़ा अयस्क</strong> आपके हाथ लगा।`",
+  "'Your fleet will now return to base.'": "'अब आपकी फ़्लीट बेस लौटेगी।'"
+}

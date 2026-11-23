@@ -1,0 +1,18 @@
+{
+  "emptyHTML(message = 'No Activity')": "emptyHTML(message = 'कोई गतिविधि नहीं')",
+  "          Other\n        </span>": "          अन्य\n        </span>",
+  ": 'No Winner';": ": 'कोई विजेता नहीं';",
+  "<div class=\"sui-text-header\">Winning Guild</div>": "<div class=\"sui-text-header\">विजेता गिल्ड</div>",
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"प्रभाव अंक\"",
+  "sui-mod-default\">Defender</span>": "sui-mod-default\">रक्षक</span>",
+  "sui-mod-destructive\">Attacker</span>": "sui-mod-destructive\">हमलावर</span>",
+  "{'1': 'Tied First', '2': 'Second Place', '3': 'Third Place', '4': 'Fourth Place'}": "{'1': 'संयुक्त पहला स्थान', '2': 'दूसरा स्थान', '3': 'तीसरा स्थान', '4': 'चौथा स्थान'}",
+  "<div class=\"sui-text-header sui-text-hint\">Top Guild</div>": "<div class=\"sui-text-header sui-text-hint\">टॉप गिल्ड</div>",
+  "<div class=\"sui-text-header sui-text-hint\">Top Player</div>": "<div class=\"sui-text-header sui-text-hint\">टॉप प्लेयर</div>",
+  "sui-text-primary\">Sector Results</div>": "sui-text-primary\">सेक्टर के नतीजे</div>",
+  "emptyHTML('No Activity in Sector')": "emptyHTML('सेक्टर में कोई गतिविधि नहीं')",
+  "$keep": [
+    "PID #",
+    "VS"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "location = `[Primary Device]<br>${location}`;": "location = `[मुख्य डिवाइस]<br>${location}`;",
+  "deviceInfoList.push('This Device');": "deviceInfoList.push('यह डिवाइस');",
+  "deviceInfoList.push(`${userAgent.getBrowser()} Browser`);": "deviceInfoList.push(`${userAgent.getBrowser()} ब्राउज़र`);",
+  "deviceInfoList.push(`Last Activity: ${lastActivity}`);": "deviceInfoList.push(`पिछली गतिविधि: ${lastActivity}`);",
+  ">Manage</a>": ">मैनेज करें</a>",
+  "        'Devices',\n": "        'डिवाइस',\n",
+  "sui-mod-primary\">Activate New Device</button>": "sui-mod-primary\">नया डिवाइस जोड़ें</button>"
+}

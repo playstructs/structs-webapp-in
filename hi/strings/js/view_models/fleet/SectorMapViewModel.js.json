@@ -1,0 +1,8 @@
+{
+  "<span class=\"sui-text-header\">Select Sector</span>": "<span class=\"sui-text-header\">सेक्टर चुनें</span>",
+  "data-sui-tooltip=\"Scroll, Click-and-Drag or swipe to navigate the map.\"": "data-sui-tooltip=\"मैप पर घूमने के लिए स्क्रोल, क्लिक करके ड्रैग या स्वाइप करें।\"",
+  "data-sui-tooltip=\"The guild currently controlling this sector.\"": "data-sui-tooltip=\"इस सेक्टर पर अभी कब्ज़ा रखने वाली गिल्ड।\"",
+  "sui-mod-primary\">Scan Sector</a>": "sui-mod-primary\">सेक्टर स्कैन करें</a>",
+  "MenuPage.setPageTemplateHeaderBtn('Sector Map',": "MenuPage.setPageTemplateHeaderBtn('सेक्टर मैप',",
+  "alt=\"Map of the contested sectors\"": "alt=\"विवादित सेक्टरों का मैप\""
+}

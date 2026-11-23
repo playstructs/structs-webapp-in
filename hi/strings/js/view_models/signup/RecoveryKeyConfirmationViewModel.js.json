@@ -1,0 +1,10 @@
+{
+  "pageHeader.pageLabel = 'Confirm Recovery Key';": "pageHeader.pageLabel = 'कुंजी की पुष्टि';",
+  "<div>To confirm your Recovery Key, enter each word, in order, separated by spaces.</div>": "<div>रिकवरी कुंजी की पुष्टि के लिए हर शब्द सही क्रम में, बीच में स्पेस देकर लिखें।</div>",
+  "<span>Confirm Recovery Key</span>": "<span>रिकवरी कुंजी की पुष्टि</span>",
+  "placeholder=\"word word word ...\"": "placeholder=\"शब्द शब्द शब्द …\"",
+  ">Next</button>": ">आगे</button>",
+  "submitBtn.textContent = 'Signing Up...';": "submitBtn.textContent = 'अकाउंट बन रहा है…';",
+  "submitBtn.textContent = 'Try Again';": "submitBtn.textContent = 'फिर कोशिश करें';",
+  "We couldn't complete your signup. The guild may be temporarily unavailable. Please try again in a moment.": "साइन अप पूरा नहीं हो सका। शायद गिल्ड अभी उपलब्ध नहीं है। थोड़ी देर बाद फिर कोशिश करें।"
+}

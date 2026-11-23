@@ -1,0 +1,6 @@
+{
+  "view.messageHeaderText = 'IMPORTANT';": "view.messageHeaderText = 'ज़रूरी सूचना';",
+  ">Recovery Key.</a>": ">रिकवरी कुंजी</a> से ही जोड़े जा सकेंगे।",
+  "This is the only device that can manage your devices. ${wording.ifLoggedOut}, you will be unable to activate new devices without using your": "आपके डिवाइस मैनेज करने की अनुमति सिर्फ़ इसी डिवाइस के पास है। ${wording.ifLoggedOut} नए डिवाइस सिर्फ़ आपकी",
+  "data-sui-tooltip=\"The words you saved when you created your account.\"": "data-sui-tooltip=\"अकाउंट बनाते समय सेव किए गए शब्द।\""
+}

@@ -1,0 +1,7 @@
+{
+  "'Recover Account'": "'अकाउंट रिकवर करें'",
+  "Invalid Recovery Key": "ग़लत रिकवरी कुंजी",
+  "<div>The Recovery Key provided did not match any known account. Please ensure each word is spelled correctly and is entered in the correct order.</div>": "<div>यह रिकवरी कुंजी किसी अकाउंट से मेल नहीं खाती। देख लें कि हर शब्द की स्पेलिंग और क्रम सही है।</div>",
+  ">Try Again</button>": ">फिर कोशिश करें</button>",
+  "Log In From Another Device": "दूसरे डिवाइस से लॉग इन"
+}

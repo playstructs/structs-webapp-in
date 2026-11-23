@@ -1,0 +1,7 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('नया डिवाइस जोड़ें');",
+  "sui-mod-primary\">Return to Account</button>": "sui-mod-primary\">अकाउंट पर लौटें</button>",
+  "? 'Activation Failed' : 'Activation Cancelled'}": "? 'डिवाइस नहीं जुड़ सका' : 'डिवाइस जोड़ना रद्द'}",
+  "? 'The approval did not go through, so the new device has not been activated. Nothing on your account has changed.'": "? 'मंज़ूरी पूरी नहीं हुई, इसलिए नया डिवाइस नहीं जुड़ा। आपके अकाउंट में कुछ नहीं बदला है।'",
+  ": 'The new device has not been activated.'}": ": 'नया डिवाइस नहीं जोड़ा गया।'}"
+}

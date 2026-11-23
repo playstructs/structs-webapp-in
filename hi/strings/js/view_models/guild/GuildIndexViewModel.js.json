@@ -1,0 +1,10 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Guild Status');": "MenuPage.setPageTemplateHeaderBtn('गिल्ड की स्थिति');",
+  "<span class=\"sui-text-header\">Alpha Reactor</span>": "<span class=\"sui-text-header\">अल्फ़ा रिएक्टर</span>",
+  "\">${alphaInfused} Alpha Infused</div>": "\">डाला गया अल्फ़ा: ${alphaInfused}</div>",
+  "<span class=\"sui-text-header\">Guild Profile</span>": "<span class=\"sui-text-header\">गिल्ड प्रोफ़ाइल</span>",
+  "<span class=\"sui-text-header\">Member Roster</span>": "<span class=\"sui-text-header\">मेंबर लिस्ट</span>",
+  "\">${memberCount} Members</div>": "\">मेंबर: ${memberCount}</div>",
+  "<span class=\"sui-text-header\">Guilds Directory</span>": "<span class=\"sui-text-header\">गिल्ड सूची</span>",
+  "\">${guildCount} Guilds</div>": "\">गिल्ड: ${guildCount}</div>"
+}

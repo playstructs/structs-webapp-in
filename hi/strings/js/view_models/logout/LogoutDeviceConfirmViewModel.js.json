@@ -1,0 +1,9 @@
+{
+  "data-sui-tooltip=\"The words you saved when you created your account.\"": "data-sui-tooltip=\"अकाउंट बनाते समय सेव किए गए शब्द।\"",
+  ">Recovery Key</a>`;": ">रिकवरी कुंजी</a>`;",
+  "view.messageHeaderText = 'Log out of this device?';": "view.messageHeaderText = 'इस डिवाइस से लॉग आउट करें?';",
+  "This device's key will be removed from this browser. To play here again you will need your": "इस डिवाइस की कुंजी इस ब्राउज़र से हटा दी जाएगी। यहाँ फिर से खेलने के लिए आपको अपनी",
+  "view.messageHeaderText = 'Log out this device?';": "view.messageHeaderText = 'इस डिवाइस को लॉग आउट करें?';",
+  "It will lose access to your account. To play on it again you will need your": "यह डिवाइस आपके अकाउंट से हट जाएगा। इस पर फिर से खेलने के लिए आपको अपनी",
+  "or approval from another device.": "या किसी दूसरे डिवाइस की मंज़ूरी चाहिए होगी।"
+}

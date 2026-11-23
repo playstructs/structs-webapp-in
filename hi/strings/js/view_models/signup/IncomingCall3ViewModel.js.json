@@ -1,0 +1,6 @@
+{
+  "<strong>SN.CORP:</strong> Greetings, SN.CORPORATION employee. I am your designated Synthetic Resources Officer.": "<strong>{{guild}}:</strong> नमस्कार, {{guild}} के आदरणीय कर्मचारी। मैं आपके लिए नियुक्त सिंथेटिक रिसोर्स ऑफ़िसर हूँ।",
+  "I have been tasked with assisting you as you complete your <a": "मुझे ज़िम्मेदारी दी गई है कि आपका <a",
+  "data-sui-tooltip=\"Failure to complete Employee Orientation may result in serious injury or death.\"": "data-sui-tooltip=\"कृपया नोट करें: कर्मचारी ओरिएंटेशन पूरा न करने पर गंभीर चोट या मृत्यु हो सकती है।\"",
+  "Employee Orientation.</a>`": "कर्मचारी ओरिएंटेशन</a> सकुशल पूरा कराया जाए।`"
+}

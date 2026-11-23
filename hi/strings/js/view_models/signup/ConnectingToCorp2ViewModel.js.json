@@ -1,0 +1,7 @@
+{
+  "'SN.Corporation'": "'{{guild}}'",
+  "src=\"/img/logo-snc.gif\"": "src=\"{{badge}}\"",
+  "alt=\"SNC logo\"": "alt=\"{{guild}} का लोगो\"",
+  ">WE KNOW BETTER.</h2>": ">{{motto}}</h2>",
+  "`Connection Successful.`": "`कनेक्शन जुड़ गया।`"
+}

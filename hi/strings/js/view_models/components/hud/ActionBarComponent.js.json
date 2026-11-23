@@ -1,0 +1,15 @@
+{
+  "class=\"sui-screen-info\">Executing</div>": "class=\"sui-screen-info\">जारी</div>",
+  "const header = ambitOrTileLabel.toUpperCase();": "const header = __hi.t(ambitOrTileLabel.toUpperCase());",
+  "title=\"Deploy\"": "title=\"तैनात करें\"",
+  "alt=\"panel switch\"": "alt=\"पैनल स्विच\"",
+  "prompt: 'Select Target',": "prompt: 'टारगेट चुनें',",
+  "prompt: 'Select Tile',": "prompt: 'खाना चुनें',",
+  "prompt: 'Select Struct',": "prompt: 'स्ट्रक्ट चुनें',",
+  "|| 'Primary Weapon'}": "|| 'मुख्य हथियार'}",
+  "|| 'Secondary Weapon'}": "|| 'दूसरा हथियार'}",
+  "title=\"Stealth Mode\"": "title=\"स्टेल्थ मोड\"",
+  "title=\"Move\"": "title=\"मूव\"",
+  "title=\"Defend\"": "title=\"बचाव\"",
+  "title=\"Consume Alpha\"": "title=\"अल्फ़ा खपाएँ\""
+}

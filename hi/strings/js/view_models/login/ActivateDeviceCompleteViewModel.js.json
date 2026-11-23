@@ -1,0 +1,9 @@
+{
+  "'Activate Device'": "'डिवाइस जोड़ें'",
+  "Activation Completed": "डिवाइस जुड़ गया",
+  "<div>Your device has been successfully activated and you are now logged-in.</div>": "<div>आपका डिवाइस जुड़ गया है और लॉग इन हो चुका है।</div>",
+  ">Play Structs</button>": ">Structs खेलें</button>",
+  "$keep": [
+    "Structs खेलें"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "headerBtnLabel: fromAccount ? 'Log Out' : 'Manage Device',": "headerBtnLabel: fromAccount ? 'लॉग आउट' : 'डिवाइस मैनेज करें',",
+  "stayLabel: isThisDevice ? 'Stay Logged In' : 'Keep Device',": "stayLabel: isThisDevice ? 'लॉग इन रहें' : 'डिवाइस रहने दें',",
+  "logoutLabel: isThisDevice ? 'Log Out Now' : 'Log Out Device',": "logoutLabel: isThisDevice ? 'अभी लॉग आउट करें' : 'डिवाइस लॉग आउट करें',",
+  "ifLoggedOut: isThisDevice ? 'If you log out' : 'If it is logged out',": "ifLoggedOut: isThisDevice ? 'लॉग आउट करने पर' : 'इसे लॉग आउट करने पर',"
+}

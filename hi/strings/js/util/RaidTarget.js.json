@@ -1,0 +1,6 @@
+{
+  "return RaidTarget.isRaidable(target) ? 'Raid' : 'View';": "return RaidTarget.isRaidable(target) ? 'धावा' : 'देखें';",
+  "sui-mod-destructive\">Under Attack</span>": "sui-mod-destructive\">हमला जारी</span>",
+  "sui-mod-default\">Fleet Away</span>": "sui-mod-default\">मिशन पर</span>",
+  "sui-mod-warning\">On Station</span>": "sui-mod-warning\">तैनात</span>"
+}

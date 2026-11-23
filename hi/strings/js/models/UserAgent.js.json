@@ -1,0 +1,13 @@
+{
+  "'Unknown OS'": "'अनजान OS'",
+  "\"Chrome Based\"": "\"Chrome आधारित\"",
+  "'Unrecognized'": "'अनजान'",
+  "$keep": [
+    "Edge",
+    "Firefox",
+    "Opera",
+    "Safari",
+    "Samsung",
+    "Chrome आधारित"
+  ]
+}

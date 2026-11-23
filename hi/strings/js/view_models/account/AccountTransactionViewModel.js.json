@@ -1,0 +1,12 @@
+{
+  "href=\"javascript:void(0)\">Player #${this.transaction.counterparty_player_id}</a>": "href=\"javascript:void(0)\">प्लेयर #${this.transaction.counterparty_player_id}</a>",
+  ">Back To Account</a>": ">अकाउंट पर लौटें</a>",
+  "? 'Recipient' : 'Sender';": "? 'प्राप्तकर्ता' : 'प्रेषक';",
+  "MenuPage.setPageTemplateHeaderBtn('Transaction Details',": "MenuPage.setPageTemplateHeaderBtn('ट्रांसफ़र की जानकारी',",
+  "            This transaction was completed successfully.\n": "            यह ट्रांसफ़र पूरा हो गया।\n",
+  "sui-text-header\">Player Details</div>": "sui-text-header\">जानकारी</div>",
+  "<div>Transaction ID</div>": "<div>ट्रांसफ़र ID</div>",
+  "<div>Date</div>": "<div>तारीख़</div>",
+  "<div>Amount</div>": "<div>मात्रा</div>",
+  "'Alpha Matter',": "'अल्फ़ा मैटर',"
+}

@@ -1,0 +1,6 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('नया डिवाइस जोड़ें');",
+  "            Device Approved\n": "            डिवाइस मंज़ूर हुआ\n",
+  "<div>The new device has been activated.</div>": "<div>नया डिवाइस जुड़ गया है।</div>",
+  "sui-mod-primary\">Return to Account</button>": "sui-mod-primary\">अकाउंट पर लौटें</button>"
+}

@@ -1,0 +1,16 @@
+{
+  "highlight('Priority Alert:')} Rival factions have launched a series of Raids against our assets in an effort to destabilize key ": "highlight('ज़रूरी अलर्ट:')} विरोधी गुटों ने अहम ",
+  "highlight('Galactic Sectors')}.`": "highlight('गैलेक्टिक सेक्टरों')} को अस्थिर करने के लिए हमारे ठिकानों पर एक के बाद एक धावे बोले हैं।`",
+  "`This cannot go unanswered. You are being re-tasked to ": "`इसका जवाब देना ज़रूरी है। आपको नई ज़िम्मेदारी दी जा रही है: ",
+  "highlight('Operation: Sector Blitz')}.`": "highlight('ऑपरेशन: सेक्टर ब्लिट्ज़')}।`",
+  "`Your objective is to secure our influence in each Sector by launching ": "`आपका मकसद है विरोधी गुटों पर ",
+  "highlight('Raids')} against rival factions.`": "highlight('धावे')} बोलकर हर सेक्टर में हमारा प्रभाव पक्का करना।`",
+  "`You can launch Raids and track our progress from the ": "`धावे बोलने और हमारी प्रगति देखने के लिए ",
+  "highlight('Fleet Menu')}. Click your Profile Picture to access the menu.`": "highlight('फ़्लीट मेन्यू')} पर जाएँ। मेन्यू खोलने के लिए अपनी प्रोफ़ाइल फ़ोटो पर क्लिक करें।`",
+  "numbers.length === 2 ? 'sectors' : 'sector'": "numbers.length === 2 ? 'सेक्टर' : 'सेक्टर'",
+  " used the opportunity to establish a firm grasp on key galactic sectors, securing ${sectorList(winner.sectors)}.": " ने मौके का फ़ायदा उठाकर अहम गैलेक्टिक सेक्टरों पर पकड़ मज़बूत की और ${sectorList(winner.sectors)} पर कब्ज़ा किया।",
+  " secured ${sectorList(other.sectors)}": " ने ${sectorList(other.sectors)} पर कब्ज़ा किया",
+  " used the opportunity to establish a firm grasp on galactic ${sectorList(first.sectors)} while ${SectorBlitzFormat.list(otherClauses)}.": " ने मौके का फ़ायदा उठाकर ${sectorList(first.sectors)} पर पकड़ मज़बूत की, जबकि ${SectorBlitzFormat.list(otherClauses)}।",
+  "highlight('Update:')} Operation: Sector Blitz has ended. Activity in the disputed systems is returning to normal.`": "highlight('अपडेट:')} ऑपरेशन: सेक्टर ब्लिट्ज़ ख़त्म हो गया है। विवादित इलाकों में गतिविधि सामान्य हो रही है।`",
+  "'A complete report can be viewed in the Fleet Menu.'": "'पूरी रिपोर्ट फ़्लीट मेन्यू में मौजूद है।'"
+}

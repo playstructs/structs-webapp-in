@@ -1,0 +1,12 @@
+{
+  "let html = 'Non-Player Address';": "let html = 'गैर-प्लेयर पता';",
+  ": 'Name Redacted';": ": 'नाम गुप्त';",
+  "? `Player Details` : 'Recipient Details';": "? `प्लेयर की जानकारी` : 'प्राप्तकर्ता की जानकारी';",
+  "<div>Guild</div>": "<div>गिल्ड</div>",
+  "            Player ID\n": "            प्लेयर ID\n",
+  "data-sui-tooltip=\"The unique in-game identifier for the player.\"": "data-sui-tooltip=\"गेम में प्लेयर की अपनी अलग ID।\"",
+  "            Blockchain Address\n": "            अकाउंट पता\n",
+  "data-sui-tooltip=\"The public wallet address for the player.\"": "data-sui-tooltip=\"प्लेयर के अकाउंट का सार्वजनिक पता।\"",
+  "MenuPage.setPageTemplateHeaderBtn('Recipient',": "MenuPage.setPageTemplateHeaderBtn('प्राप्तकर्ता',",
+  ">Select This Player</a>": ">यही प्लेयर चुनें</a>"
+}

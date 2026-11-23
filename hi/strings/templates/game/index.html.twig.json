@@ -1,0 +1,12 @@
+{
+  "alt=\"Structs logo with animated progress bar\"": "alt=\"चलती प्रोग्रेस बार वाला Structs लोगो\"",
+  "<h1>Loading Assets</h1>": "<h1>लोड हो रहा है…</h1>",
+  "$keep": [
+    "{% extends 'base.html.twig' %}",
+    "{% block title %}Structs{% endblock %}",
+    "{% block body %}",
+    "{% endblock %}",
+    "Structs",
+    "चलती प्रोग्रेस बार वाला Structs लोगो"
+  ]
+}

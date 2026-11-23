@@ -1,0 +1,14 @@
+{
+  "pageHeader.pageLabel = 'About Recovery Keys';": "pageHeader.pageLabel = 'रिकवरी कुंजी क्या है';",
+  ">What is a Recovery Key?</div>": ">रिकवरी कुंजी क्या होती है?</div>",
+  "<div>Your recovery key is the 12-word secret code that was given to you when you created your account.</div>": "<div>रिकवरी कुंजी 12 शब्दों का वह गुप्त कोड है, जो अकाउंट बनाते समय आपको मिला था।</div>",
+  ">Why do I need my Recovery Key?</div>": ">मुझे रिकवरी कुंजी क्यों चाहिए?</div>",
+  "<div>In the event that you lose access to your account, you can use your Recovery Key to log in.</div>": "<div>अगर कभी अकाउंट खुलना बंद हो जाए, तो रिकवरी कुंजी से लॉग इन किया जा सकता है।</div>",
+  ">How can I protect my Recovery Key?</div>": ">रिकवरी कुंजी को कैसे सँभालें?</div>",
+  "<div>It is important to write down your Recovery Key and keep it in a safe place. You may also consider saving your Recovery Key to a password manager. We do not store Recovery Keys and cannot help you retrieve your Key if you lose it.</div>": "<div>रिकवरी कुंजी लिखकर सुरक्षित जगह रखना ज़रूरी है। इसे पासवर्ड मैनेजर में भी सेव किया जा सकता है। हम रिकवरी कुंजी अपने पास नहीं रखते, इसलिए खो जाने पर उसे वापस नहीं दिला सकते।</div>",
+  ">I want to log in on a new device. Do I need my recovery Key?</div>": ">नए डिवाइस पर लॉग इन करना है। क्या रिकवरी कुंजी चाहिए?</div>",
+  "<div>No. If you currently have access to a logged-in device, you can log in a new device by using the <a": "<div>नहीं। अगर आपके पास कोई लॉग इन डिवाइस है, तो नए डिवाइस पर <a",
+  ">Login From Another Device</a> option.<br>": ">दूसरे डिवाइस से लॉग इन</a> चुनकर लॉग इन करें।<br>",
+  "Note: this option is only available if the logged-in device has Account Management permissions.<br>": "ध्यान दें: यह तभी मिलेगा, जब लॉग इन डिवाइस के पास डिवाइस मैनेजमेंट की अनुमति हो।<br>",
+  "If you have no currently logged-in devices with Account Management permissions, you will need to use your Recovery Key to log in again.": "अगर डिवाइस मैनेजमेंट की अनुमति वाला कोई डिवाइस लॉग इन नहीं है, तो दोबारा लॉग इन के लिए रिकवरी कुंजी लगेगी।"
+}

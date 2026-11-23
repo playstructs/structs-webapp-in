@@ -1,0 +1,9 @@
+{
+  "alt=\"Guild ${guildSearchResultDTO.name}'s logo\"": "alt=\"गिल्ड ${guildSearchResultDTO.name} का लोगो\"",
+  ": `Guild #${guildSearchResultDTO.guild_id}`;": ": `गिल्ड #${guildSearchResultDTO.guild_id}`;",
+  "'Number of members in the guild',": "'गिल्ड में मेंबर की संख्या',",
+  "'Alpha infused with the guild',": "'गिल्ड में डाला गया अल्फ़ा',",
+  ">View</a>": ">देखें</a>",
+  "`<div>Guild has no members yet.</div>`": "`<div>अभी कोई गिल्ड नहीं है।</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Guilds Directory',": "MenuPage.setPageTemplateHeaderBtn('गिल्ड सूची',"
+}

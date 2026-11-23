@@ -1,0 +1,7 @@
+{
+  "view.messageHeaderText = 'IMPORTANT';": "view.messageHeaderText = 'ज़रूरी सूचना';",
+  "data-sui-tooltip=\"The Player Account holds your funds independently of any signing device.\"": "data-sui-tooltip=\"प्लेयर अकाउंट में रखे संसाधन किसी एक डिवाइस पर निर्भर नहीं होते।\"",
+  ">Player Account.</a>": ">प्लेयर अकाउंट</a> में चले जाएँगे।",
+  "data-sui-tooltip=\"Alpha Matter\"": "data-sui-tooltip=\"अल्फ़ा मैटर\"",
+  "The following assets are held by this device. ${wording.ifLoggedOut}, they will be swept to your": "नीचे दिए संसाधन इस डिवाइस में रखे हैं। ${wording.ifLoggedOut} ये आपके"
+}

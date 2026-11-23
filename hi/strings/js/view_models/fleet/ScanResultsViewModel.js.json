@@ -1,0 +1,10 @@
+{
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"प्रभाव अंक\"",
+  ": 'View';": ": 'देखें';",
+  "`<div>No results found. Please try a different search term.</div>`": "`<div>कोई नतीजा नहीं मिला। कुछ और खोजकर देखें।</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Scan Results',": "MenuPage.setPageTemplateHeaderBtn('स्कैन के नतीजे',",
+  "$keep": [
+    "PID #",
+    "Fleet"
+  ]
+}

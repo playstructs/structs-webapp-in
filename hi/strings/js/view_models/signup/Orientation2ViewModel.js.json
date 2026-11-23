@@ -1,0 +1,13 @@
+{
+  "'SN.Corporation'": "'{{guild}}'",
+  "src=\"/img/logo-snc.gif\"": "src=\"{{badge}}\"",
+  "alt=\"SNC logo\"": "alt=\"{{guild}} का लोगो\"",
+  ">WE KNOW BETTER.</h2>": ">{{motto}}</h2>",
+  "`You have been contracted by SN.CORPORATION, a member of the": "`आपको सूचित किया जाता है कि",
+  "data-sui-tooltip=\"A loose federation of machine states with the goal of [REDACTED]\"": "data-sui-tooltip=\"मशीनी राज्यों का ढीला-ढाला संघ, जिसका मकसद [गुप्त] है\"",
+  ">Structs Conglomerate</a>,": ">Structs महासंघ</a> की सदस्य {{guild}} ने",
+  "to conduct Alpha Matter mining operations in the Milky Way Galaxy.`": "आकाशगंगा में अल्फ़ा मैटर के खनन हेतु आपको कॉन्ट्रैक्ट पर रख लिया है।`",
+  "$keep": [
+    "Structs महासंघ"
+  ]
+}

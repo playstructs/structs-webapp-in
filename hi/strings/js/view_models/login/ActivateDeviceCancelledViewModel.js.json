@@ -1,0 +1,8 @@
+{
+  "'Activate Device'": "'डिवाइस जोड़ें'",
+  "Activation Cancelled": "डिवाइस नहीं जुड़ा",
+  "<div>This device has not been logged in.</div>": "<div>इस डिवाइस पर लॉग इन नहीं हुआ।</div>",
+  ">Try Again</button>": ">फिर कोशिश करें</button>",
+  "Log In With Recovery Key": "रिकवरी कुंजी से लॉग इन",
+  "'<div>Your logged-in device denied this request, or could not approve it.</div>'": "'<div>आपके लॉग इन डिवाइस ने यह अनुरोध ठुकरा दिया, या उसे मंज़ूर नहीं कर सका।</div>'"
+}

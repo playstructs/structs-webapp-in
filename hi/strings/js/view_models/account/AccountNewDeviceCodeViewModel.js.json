@@ -1,0 +1,8 @@
+{
+  "      'Activate New Device',\n": "      'नया डिवाइस जोड़ें',\n",
+  "sui-mod-primary\">Generate Activation Code</button>": "sui-mod-primary\">एक्टिवेशन कोड बनाएँ</button>",
+  "sui-mod-primary\">Activation Code</div>": "sui-mod-primary\">एक्टिवेशन कोड</div>",
+  "sui-mod-primary\">Generate New Code</button>": "sui-mod-primary\">नया कोड बनाएँ</button>",
+  "<div class=\"sui-text-warning\">Do not close this screen until activation is complete.</div>": "<div class=\"sui-text-warning\">डिवाइस जुड़ने तक यह स्क्रीन बंद न करें।</div>",
+  "<div>Enter the above code on the Returning Player screen on your new device to activate it.</div>": "<div>डिवाइस जोड़ने के लिए नए डिवाइस की पुराना प्लेयर स्क्रीन पर ऊपर दिया कोड डालें।</div>"
+}

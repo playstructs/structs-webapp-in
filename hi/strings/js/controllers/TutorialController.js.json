@@ -1,0 +1,14 @@
+{
+  "'Loading...', TUTORIAL_COPY": "'लोड हो रहा है…', TUTORIAL_COPY",
+  "'Restart Tutorial?'": "'प्रशिक्षण फिर शुरू करें?'",
+  "'Are you sure you want to restart the tutorial? Your progress will be reset.'": "'क्या युद्ध प्रशिक्षण शुरू से दोबारा करना है? अब तक की प्रगति मिट जाएगी।'",
+  "'Restart Tutorial',": "'फिर शुरू करें',",
+  "'Abandon Tutorial?'": "'प्रशिक्षण बीच में छोड़ें?'",
+  "'Are you sure you want to abandon the tutorial? You can revisit the tutorial later from the menu.'": "'क्या युद्ध प्रशिक्षण बीच में ही छोड़ना है? बाद में मेन्यू से यह फिर खुल सकता है।'",
+  "'Abandon Tutorial',": "'बीच में छोड़ें',",
+  "'Status',": "'स्टेटस',",
+  "'CMD Ship jumping to a new planet'": "'नए ग्रह की ओर जंप करता कमांड शिप'",
+  "$keep": [
+    "Tutorial"
+  ]
+}

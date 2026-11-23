@@ -1,0 +1,5 @@
+{
+  "<span class=\"sui-text-header\">Raid Log</span>": "<span class=\"sui-text-header\">धावा लॉग</span>",
+  "MenuPage.setPageTemplateHeaderBtn('Fleet Status');": "MenuPage.setPageTemplateHeaderBtn('फ़्लीट की स्थिति');",
+  "<span class=\"sui-text-header\">Base Log</span>": "<span class=\"sui-text-header\">बेस लॉग</span>"
+}

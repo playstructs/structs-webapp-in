@@ -1,0 +1,10 @@
+{
+  "              Transaction #${transaction.id}\n": "              ट्रांसफ़र #${transaction.id}\n",
+  "<span class=\"sui-badge sui-mod-default\">Completed</span>": "<span class=\"sui-badge sui-mod-default\">पूरा</span>",
+  ">View</a>": ">देखें</a>",
+  "`<div>No confirmed alpha transactions yet.</div>`": "`<div>अब तक अल्फ़ा का कोई ट्रांसफ़र नहीं हुआ।</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Transaction History',": "MenuPage.setPageTemplateHeaderBtn('हिस्ट्री',",
+  "$keep": [
+    "Account"
+  ]
+}

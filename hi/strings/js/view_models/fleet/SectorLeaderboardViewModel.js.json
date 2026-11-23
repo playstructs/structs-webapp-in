@@ -1,0 +1,16 @@
+{
+  "emptyHTML('No Activity in Sector')": "emptyHTML('सेक्टर में कोई गतिविधि नहीं')",
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"प्रभाव अंक\"",
+  "this.renderStatRowHTML('Leaderboard Position',": "this.renderStatRowHTML('लीडरबोर्ड में स्थान',",
+  "this.renderStatRowHTML('Earned from Raids',": "this.renderStatRowHTML('धावों से मिले अंक',",
+  "this.renderStatRowHTML('KOTH Bonus',": "this.renderStatRowHTML('KOTH बोनस',",
+  "this.renderStatRowHTML('Sector Score',": "this.renderStatRowHTML('सेक्टर स्कोर',",
+  "this.renderStatRowHTML('Total Event Score',": "this.renderStatRowHTML('इवेंट का कुल स्कोर',",
+  ">View</a>": ">देखें</a>",
+  "sui-text-header\">Your Performance</div>": "sui-text-header\">आपका प्रदर्शन</div>",
+  "sui-text-header\">Guild Leaderboard</div>": "sui-text-header\">गिल्ड लीडरबोर्ड</div>",
+  "sui-text-header\">Player Leaderboard</div>": "sui-text-header\">प्लेयर लीडरबोर्ड</div>",
+  "$keep": [
+    "Fleet"
+  ]
+}

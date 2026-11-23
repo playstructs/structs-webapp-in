@@ -1,0 +1,33 @@
+{
+  ">Visit the ${this.guild.name} Guild Site <i": ">${this.guild.name} गिल्ड की साइट देखें <i",
+  "          Players joining a Guild are required to play Structs through that Guild's external game client.\n": "          किसी गिल्ड से जुड़ने के लिए Structs को उसी गिल्ड के बाहरी गेम क्लाइंट से खेलना ज़रूरी है।\n",
+  ">Join Discord</a>": ">Discord से जुड़ें</a>",
+  "alt=\"${this.guild.name} logo\"": "alt=\"${this.guild.name} का लोगो\"",
+  "MenuPage.setPageTemplateHeaderBtn('Guild Profile',": "MenuPage.setPageTemplateHeaderBtn('गिल्ड प्रोफ़ाइल',",
+  ": 'Name Redacted'}": ": 'नाम गुप्त'}",
+  "                Guild ID #${this.guild.id}\n": "                गिल्ड ID #${this.guild.id}\n",
+  "sui-text-header\">Guild Data</div>": "sui-text-header\">गिल्ड की जानकारी</div>",
+  ": 'Description Redacted'}": ": 'विवरण गुप्त'}",
+  "sui-text-header\">Guild Power</div>": "sui-text-header\">गिल्ड पावर</div>",
+  "                  Guild Minimum\n": "                  न्यूनतम अल्फ़ा\n",
+  "data-sui-tooltip=\"The minimum Alpha Matter that must be infused for Guild Membership.\"": "data-sui-tooltip=\"गिल्ड मेंबर बनने के लिए कम से कम इतना अल्फ़ा मैटर डालना ज़रूरी है।\"",
+  "'Minimum alpha required to join guild',": "'गिल्ड से जुड़ने के लिए ज़रूरी न्यूनतम अल्फ़ा',",
+  "                  Avg. Base Energy Supply\n": "                  औसत बेस ऊर्जा सप्लाई\n",
+  "data-sui-tooltip=\"The average amount of Energy supplied to members.\"": "data-sui-tooltip=\"मेंबर को मिलने वाली औसत ऊर्जा।\"",
+  "'Average energy supplied to guild members',": "'गिल्ड मेंबर को मिलने वाली औसत ऊर्जा',",
+  "data-sui-tooltip=\"The amount of Energy supplied for each additional Alpha Matter infused.\"": "data-sui-tooltip=\"हर अतिरिक्त अल्फ़ा मैटर डालने पर मिलने वाली ऊर्जा।\"",
+  "<div>Commission</div>": "<div>कमीशन</div>",
+  "'The guild\\'s cut',": "'गिल्ड का हिस्सा',",
+  "<div>Alpha Infused</div>": "<div>डाला गया अल्फ़ा</div>",
+  "'Alpha infused with the guild',": "'गिल्ड में डाला गया अल्फ़ा',",
+  "<div>Energy Usage</div>": "<div>ऊर्जा खपत</div>",
+  "'Cumulative guild member energy usage',": "'गिल्ड के सभी मेंबर की कुल ऊर्जा खपत',",
+  "sui-text-header\">Guild Statistics</div>": "sui-text-header\">गिल्ड के आँकड़े</div>",
+  "<div>Members</div>": "<div>मेंबर</div>",
+  "<div>Planets Completed</div>": "<div>पूरे हुए ग्रह</div>",
+  "                  Reactor Efficiency\n": "                  रिएक्टर दक्षता\n",
+  "$keep": [
+    "किसी गिल्ड से जुड़ने के लिए Structs को उसी गिल्ड के बाहरी गेम क्लाइंट से खेलना ज़रूरी है।",
+    "Discord से जुड़ें"
+  ]
+}

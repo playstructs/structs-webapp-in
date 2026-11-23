@@ -1,0 +1,11 @@
+{
+  "'SN.Corporation'": "'{{guild}}'",
+  "alt=\"ST-21 Spearpoint CMD Ship\"": "alt=\"ST-21 Spearpoint कमांड शिप\"",
+  "<span class=\"sui-text-display\">CMD SHIP</span>": "<span class=\"sui-text-display\">कमांड शिप</span>",
+  "`You have been issued a ST-21 \"Spearpoint\" CMD Ship to explore the uncharted regions for Alpha-seeded worlds.`": "`अनजान इलाकों में अल्फ़ा वाले ग्रह खोजने के लिए आपके नाम एक ST-21 \"Spearpoint\" कमांड शिप जारी किया गया है।`",
+  "$keep": [
+    "ST-21 \"Spearpoint\"",
+    "ST-21 Spearpoint कमांड शिप",
+    "अनजान इलाकों में अल्फ़ा वाले ग्रह खोजने के लिए आपके नाम एक ST-21 \"Spearpoint\" कमांड शिप जारी किया गया है।"
+  ]
+}

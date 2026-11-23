@@ -1,0 +1,11 @@
+{
+  "<html class=\"no-js\" lang=\"en-us\">": "<html class=\"no-js\" lang=\"hi\">",
+  "<title>Sector Blitz Leaderboard | Structs</title>": "<title>सेक्टर ब्लिट्ज़ लीडरबोर्ड | Structs</title>",
+  "content=\"Live standings for Sector Blitz, the Structs sector control event.\"": "content=\"Structs के सेक्टर कब्ज़े वाले इवेंट, सेक्टर ब्लिट्ज़ की लाइव रैंकिंग।\"",
+  "sui-mod-active\" href=\"{{ path('app_sector_blitz') }}\">Sector Blitz</a>": "sui-mod-active\" href=\"{{ path('app_sector_blitz') }}\">सेक्टर ब्लिट्ज़</a>",
+  "href=\"{{ path('app_game') }}\">Play Now</a>": "href=\"{{ path('app_game') }}\">अभी खेलें</a>",
+  "alt=\"3 dots loading animation\"": "alt=\"लोड हो रहा है\"",
+  "$keep": [
+    "सेक्टर ब्लिट्ज़ लीडरबोर्ड | Structs"
+  ]
+}

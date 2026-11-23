@@ -1,0 +1,8 @@
+{
+  "\"This device doesn't have permission to change the display name. Sign in on a device with management permissions to update it.\"": "\"इस डिवाइस को यूज़रनेम बदलने की अनुमति नहीं है। इसे बदलने के लिए डिवाइस मैनेजमेंट की अनुमति वाले डिवाइस पर लॉग इन करें।\"",
+  "'Change Display Name',": "'यूज़रनेम बदलें',",
+  "\"Name must be 3\\u201320 characters and only include letters, numbers, '-' and '_'.\"": "\"यूज़रनेम 3\\u201320 अक्षरों का हो। उसमें सिर्फ़ अंग्रेज़ी अक्षर, अंक, '-' और '_' चलेंगे।\"",
+  "<span>Display Name</span>": "<span>यूज़रनेम</span>",
+  "placeholder=\"Type your new display name\"": "placeholder=\"नया यूज़रनेम लिखें\"",
+  "sui-mod-disabled\" disabled>Submit</button>": "sui-mod-disabled\" disabled>सेव करें</button>"
+}

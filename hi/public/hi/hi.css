@@ -1,0 +1,35 @@
+/*
+ * Devanagari for structs-webapp's fonts.
+ *
+ * DirectiveZero and ExtremeHazard are Latin-only. Rather than restyle every
+ * rule that uses them, each family gains a second face that covers only
+ * Devanagari, taken from the device's own fonts (local(), nothing is
+ * downloaded): Noto on Android, Linux and ChromeOS, Kohinoor on Apple, Nirmala
+ * on Windows. The browser takes Hindi from it and the rest from webapp's own
+ * fonts.
+ */
+
+@font-face {
+  font-family: DirectiveZero;
+  src: local('Noto Sans Devanagari UI'), local('NotoSansDevanagariUI-Regular'),
+       local('Noto Sans Devanagari'), local('Noto Sans Devanagari Regular'), local('NotoSansDevanagari-Regular'),
+       local('Kohinoor Devanagari Medium'), local('KohinoorDevanagari-Medium'),
+       local('Nirmala UI'), local('NirmalaUI'),
+       local('Mukta'), local('Lohit Devanagari'), local('Mangal'), local('Devanagari Sangam MN'), local('DevanagariSangamMN');
+  unicode-range: U+0900-097F, U+1CD0-1CFF, U+200C-200D, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+
+/*
+ * webapp sets ExtremeHazard, a small-caps pixel face, at 8px for buttons,
+ * tabs and labels: too small for Devanagari. At 160% its Hindi is 12.8px.
+ */
+@font-face {
+  font-family: ExtremeHazard;
+  src: local('Noto Sans Devanagari UI Bold'), local('NotoSansDevanagariUI-Bold'),
+       local('Noto Sans Devanagari Bold'), local('NotoSansDevanagari-Bold'),
+       local('Kohinoor Devanagari Semibold'), local('KohinoorDevanagari-Semibold'),
+       local('Nirmala UI Bold'), local('NirmalaUI-Bold'),
+       local('Mukta Bold'), local('Mangal Bold'), local('Devanagari Sangam MN Bold'), local('DevanagariSangamMN-Bold');
+  unicode-range: U+0900-097F, U+1CD0-1CFF, U+200C-200D, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+  size-adjust: 160%;
+}

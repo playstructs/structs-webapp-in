@@ -1,0 +1,14 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('नया डिवाइस जोड़ें');",
+  "<div>The following device is requesting access to your account:</div>": "<div>यह डिवाइस आपके अकाउंट से जुड़ने की मंज़ूरी माँग रहा है:</div>",
+  "sui-text-primary\">New Device</div>": "sui-text-primary\">नया डिवाइस</div>",
+  "<div>${userAgent.getBrowser()} Browser</div>": "<div>${userAgent.getBrowser()} ब्राउज़र</div>",
+  "<div class=\"sui-text-header\">Device Seal</div>": "<div class=\"sui-text-header\">डिवाइस मुहर</div>",
+  "sui-text-hint\">Ensure this image matches the one shown on the device to be activated.</div>": "sui-text-hint\">जाँच लें कि जोड़े जा रहे डिवाइस पर भी यही तस्वीर दिख रही है।</div>",
+  "<div>Set permissions for the new device:</div>": "<div>नए डिवाइस की अनुमतियाँ चुनें:</div>",
+  "\">Manage Devices</label>": "\">डिवाइस मैनेजमेंट</label>",
+  "\">Transfer Assets</label>": "\">संसाधन भेजना</label>",
+  ">Approve Device</a>": ">डिवाइस मंज़ूर करें</a>",
+  ">Deny</a>": ">मना करें</a>",
+  "This device can only grant permissions it has itself.": "यह डिवाइस सिर्फ़ वही अनुमतियाँ दे सकता है जो इसके पास हैं।"
+}

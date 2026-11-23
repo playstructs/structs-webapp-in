@@ -1,0 +1,20 @@
+{
+  "public-leaderboard-title\">Event Leaderboard</h1>": "public-leaderboard-title\">इवेंट लीडरबोर्ड</h1>",
+  "public-leaderboard-title\">${SectorBlitzFormat.sectorLabel(this.sector)} Leaderboard</h1>": "public-leaderboard-title\">${SectorBlitzFormat.sectorLabel(this.sector)} लीडरबोर्ड</h1>",
+  "return 'N/A';": "return '—';",
+  "emptyHTML('Sector data is currently unavailable.')": "emptyHTML('सेक्टर का डेटा अभी उपलब्ध नहीं है।')",
+  "isResults ? 'Event Results' :": "isResults ? 'इवेंट के नतीजे' :",
+  "`${this.remainingText(summary)} Remaining`": "`बाकी: ${this.remainingText(summary)}`",
+  "`${SectorBlitzFormat.sectorLabel(this.sector)} Statistics`": "`${SectorBlitzFormat.sectorLabel(this.sector)} के आँकड़े`",
+  "public-leaderboard-play-btn\">Play Now</a>": "public-leaderboard-play-btn\">अभी खेलें</a>",
+  "emptyHTML('Currently unavailable')": "emptyHTML('अभी उपलब्ध नहीं')",
+  "this.listCardHTML('Top Guilds',": "this.listCardHTML('टॉप गिल्ड',",
+  "this.listCardHTML('Top Players',": "this.listCardHTML('टॉप प्लेयर',",
+  "row), 'No Activity'));": "row), 'कोई गतिविधि नहीं'));",
+  "public-battle-spectate-btn\">Spectate</a>": "public-battle-spectate-btn\">देखें</a>",
+  "this.listCardHTML('Current Battles',": "this.listCardHTML('मौजूदा लड़ाइयाँ',",
+  "'No Battles in Progress'));": "'कोई लड़ाई जारी नहीं'));",
+  "$keep": [
+    "Structs"
+  ]
+}

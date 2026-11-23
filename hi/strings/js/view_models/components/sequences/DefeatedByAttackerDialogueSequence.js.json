@@ -1,0 +1,3 @@
+{
+  "`<strong class=\"sui-text-destructive\">Defeat!</strong> Your Planetary Shield was depleted, allowing the enemy to steal <strong class=\"sui-text-destructive\">${this.alphaOreLost} Alpha Ore</strong>.`": "`<strong class=\"sui-text-destructive\">हार!</strong> आपकी ग्रह शील्ड ख़त्म हो गई और दुश्मन <strong class=\"sui-text-destructive\">${this.alphaOreLost} अल्फ़ा अयस्क</strong> ले उड़ा।`"
+}

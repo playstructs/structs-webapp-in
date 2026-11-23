@@ -1,0 +1,10 @@
+{
+  "'Skip Tutorial?'": "'प्रशिक्षण छोड़ें?'",
+  "'Are you sure you want to skip the tutorial? You can revisit the tutorial later from the menu.'": "'पक्का युद्ध प्रशिक्षण छोड़ना है? बाद में इसे मेनू से दोबारा खोला जा सकता है।'",
+  "'Skip Tutorial',": "'प्रशिक्षण छोड़ें',",
+  "menuWaitingOptions.headerBtnLabel = 'Logout';": "menuWaitingOptions.headerBtnLabel = 'लॉग आउट';",
+  "menuWaitingOptions.waitingMessage = 'Logging out.';": "menuWaitingOptions.waitingMessage = 'लॉग आउट हो रहा है…';",
+  "$keep": [
+    "Auth"
+  ]
+}

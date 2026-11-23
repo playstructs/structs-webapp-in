@@ -1,0 +1,17 @@
+{
+  "`Alpha will be removed from your inventory and added to the reactor.`": "`अल्फ़ा आपकी इन्वेंट्री से निकलकर रिएक्टर में जाएगा।`",
+  "`Alpha will be removed from the reactor and put on cooldown.`": "`अल्फ़ा रिएक्टर से निकलकर कूलडाउन में जाएगा।`",
+  "The Guild Minimum is ${this.joinInfusionMinimum} Alpha Matter.": "गिल्ड में कम से कम ${this.joinInfusionMinimum} अल्फ़ा मैटर ज़रूरी है।",
+  "? 'Infusing...' : 'Defusing...';": "? 'अल्फ़ा डाला जा रहा है…' : 'अल्फ़ा निकाला जा रहा है…';",
+  "'The change continues if you leave this screen.'": "'यह स्क्रीन छोड़ने पर भी बदलाव जारी रहेगा।'",
+  "'Confirmed on chain. The reactor display has not caught up yet; check it again shortly.'": "'बदलाव पक्का हो गया। रिएक्टर का डिस्प्ले अभी अपडेट नहीं हुआ है; थोड़ी देर में फिर देखें।'",
+  "MenuPage.setPageTemplateHeaderBtn('Manage Alpha',": "MenuPage.setPageTemplateHeaderBtn('अल्फ़ा मैनेज करें',",
+  "alt=\"alpha reactor\"": "alt=\"अल्फ़ा रिएक्टर\"",
+  "'Alpha to infuse',": "'डाला जाने वाला अल्फ़ा',",
+  "'Expected energy supply',": "'अनुमानित ऊर्जा सप्लाई',",
+  "sui-mod-secondary\">Cancel</a>": "sui-mod-secondary\">रद्द करें</a>",
+  "sui-mod-primary\">Save Changes</a>": "sui-mod-primary\">बदलाव सेव करें</a>",
+  "$keep": [
+    "[ManageAlpha] reactor state unavailable:"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "<div class=\"sui-text-header\">Signing Paused</div>": "<div class=\"sui-text-header\">ऑर्डर भेजना रुका हुआ</div>",
+  "This browser has saved transaction records it cannot read, so new transactions are paused.\n                Setting them aside keeps a copy and resumes signing. A set-aside transaction may already\n                have been sent, so check your balances before repeating an action.": "इस ब्राउज़र में सेव ऑर्डर का कुछ रिकॉर्ड पढ़ा नहीं जा सका, इसलिए नए ऑर्डर रुके हुए हैं।\n                रिकॉर्ड अलग रखने पर उसकी कॉपी बची रहती है और ऑर्डर फिर भेजे जा सकते हैं। अलग रखा गया ऑर्डर शायद पहले ही\n                भेजा जा चुका हो, इसलिए कुछ भी दोहराने से पहले अपना बैलेंस जाँच लें।",
+  "sui-mod-destructive\">Set Aside and Continue</button>": "sui-mod-destructive\">अलग रखकर आगे बढ़ें</button>",
+  "MenuPage.setPageTemplateHeaderBtn('Account');": "MenuPage.setPageTemplateHeaderBtn('अकाउंट');",
+  "<span class=\"sui-text-header\">Profile</span>": "<span class=\"sui-text-header\">प्रोफ़ाइल</span>",
+  "<span class=\"sui-text-header\">Transfers</span>": "<span class=\"sui-text-header\">ट्रांसफ़र</span>",
+  "<span class=\"sui-text-header\">Devices</span>": "<span class=\"sui-text-header\">डिवाइस</span>",
+  "\">${addressCount} Devices Active</div>": "\">जुड़े डिवाइस: ${addressCount}</div>",
+  "<span class=\"sui-text-header\">Combat Tutorial</span>": "<span class=\"sui-text-header\">युद्ध प्रशिक्षण</span>",
+  "$keep": [
+    "PID #"
+  ]
+}

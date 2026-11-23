@@ -1,0 +1,20 @@
+{
+  "alt=\"3 dots loading animation\"": "alt=\"लोड हो रहा है\"",
+  "primaryBtnLabel = 'Command';": "primaryBtnLabel = 'कमान लें';",
+  "alphaBaseCard.alertMessage = 'All Alpha extracted.';": "alphaBaseCard.alertMessage = 'सारा अल्फ़ा निकल चुका है।';",
+  "secondaryBtnLabel = 'Depart';": "secondaryBtnLabel = 'रवाना हों';",
+  "alphaBaseCard.alertMessage = 'Depart planet?';": "alphaBaseCard.alertMessage = 'ग्रह छोड़ना है?';",
+  "`Fleet will travel to an undiscovered world.`": "`फ़्लीट एक अनजानी दुनिया की ओर जाएगी।`",
+  "primaryBtnLabel = 'Confirm';": "primaryBtnLabel = 'पुष्टि करें';",
+  "secondaryBtnLabel = 'Cancel';": "secondaryBtnLabel = 'रद्द करें';",
+  "`Fleet has arrived at ${this.gameState.keyPlayers[PLAYER_TYPES.PLAYER].planet.name}.`": "`फ़्लीट ${this.gameState.keyPlayers[PLAYER_TYPES.PLAYER].planet.name} पहुँच गई है।`",
+  "primaryBtnLabel = 'View';": "primaryBtnLabel = 'देखें';",
+  "secondaryBtnLabel = 'Dismiss';": "secondaryBtnLabel = 'बंद करें';",
+  "raidCard.generalMessage = 'No Raid active.';": "raidCard.generalMessage = 'कोई धावा जारी नहीं।';",
+  "secondaryBtnLabel = 'Scan';": "secondaryBtnLabel = 'स्कैन';",
+  "raidCard.alertMessage = 'No CMD Ship.';": "raidCard.alertMessage = 'कमांड शिप नहीं है।';",
+  "`Fleet has begun raid on ${this.gameState.keyPlayers[PLAYER_TYPES.RAID_ENEMY].getUsername()}.`": "`फ़्लीट ने ${this.gameState.keyPlayers[PLAYER_TYPES.RAID_ENEMY].getUsername()} पर धावा बोल दिया है।`",
+  "secondaryBtnLabel = 'Retreat';": "secondaryBtnLabel = 'पीछे हटें';",
+  "raidCard.alertMessage = 'Abandon raid?';": "raidCard.alertMessage = 'धावा छोड़ना है?';",
+  "`Fleet will return to Alpha Base.`": "`फ़्लीट अल्फ़ा बेस लौट आएगी।`"
+}

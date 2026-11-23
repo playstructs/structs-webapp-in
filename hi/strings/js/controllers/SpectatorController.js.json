@@ -1,0 +1,17 @@
+{
+  "title: 'Spectating',": "title: 'दर्शक मोड',",
+  "message: 'Connecting to the battle...',": "message: 'लड़ाई से कनेक्ट हो रहा है…',",
+  "'This battle could not be loaded. It may have just ended. Try again from the Event Leaderboard.'": "'यह लड़ाई लोड नहीं हो सकी। शायद यह अभी-अभी ख़त्म हुई है। इवेंट लीडरबोर्ड से फिर कोशिश करें।'",
+  "'This battle is over. Pick another from Current Battles on the Event Leaderboard.'": "'यह लड़ाई ख़त्म हो चुकी है। इवेंट लीडरबोर्ड की मौजूदा लड़ाइयों में से दूसरी चुनें।'",
+  "'Sector Blitz is not running right now, so there are no battles to watch.'": "'सेक्टर ब्लिट्ज़ अभी नहीं चल रहा, इसलिए देखने के लिए कोई लड़ाई नहीं है।'",
+  "|| 'The defender')": "|| 'रक्षक')",
+  "|| 'The attacker')": "|| 'हमलावर')",
+  "`${attacker} won the raid.`": "`धावे में ${attacker} की जीत हुई।`",
+  "`${defender} defended the planet.`": "`${defender} ने ग्रह बचा लिया।`",
+  "`${attacker} retreated. ${defender} keeps the planet.`": "`${attacker} की फ़्लीट पीछे हट गई। ग्रह ${defender} के पास ही रहा।`",
+  "`${defender}'s planet was demilitarized.`": "`${defender} का ग्रह निहत्था हो गया।`",
+  "`Battle over. ${messages[detail?.status] ?? ''}`": "`लड़ाई ख़त्म। ${messages[detail?.status] ?? ''}`",
+  "$keep": [
+    "Spectator"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "'SN.Corporation'": "'{{guild}}'",
+  "Only <strong>letters</strong>, <strong>numbers</strong>, <strong>-</strong> and <strong>_</strong> are allowed. <strong>Length</strong> must be between <strong>3</strong> and <strong>20</strong> characters.": "सिर्फ़ <strong>अंग्रेज़ी अक्षर</strong>, <strong>अंक</strong>, <strong>-</strong> और <strong>_</strong> चलेंगे। <strong>लंबाई</strong> <strong>3</strong> से <strong>20</strong> के बीच होनी चाहिए।",
+  "<div class=\"set-username-profile-created\">Profile Created</div>": "<div class=\"set-username-profile-created\">प्रोफ़ाइल बन गई</div>",
+  "`Welcome, ${this.gameState.signupRequest.username}.`": "`आपका स्वागत है, ${this.gameState.signupRequest.username}।`",
+  "<span>Display Name</span>": "<span>यूज़रनेम</span>",
+  "placeholder=\"Your Name\"": "placeholder=\"आपका नाम\"",
+  ">Submit</button>": ">जमा करें</button>",
+  "`To begin, please confirm your identity.`": "`शुरू करने से पहले, कृपया अपनी पहचान की पुष्टि करें।`"
+}

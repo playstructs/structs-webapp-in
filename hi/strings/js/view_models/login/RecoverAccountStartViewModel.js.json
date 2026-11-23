@@ -1,0 +1,9 @@
+{
+  "'Recover Account'": "'अकाउंट रिकवर करें'",
+  "waitingOptions.waitingMessage = 'Recovering your account.';": "waitingOptions.waitingMessage = 'आपका अकाउंट रिकवर हो रहा है।';",
+  "<div>Please enter the 12-word Recovery Key associated with your account.</div>": "<div>अपने अकाउंट की 12 शब्दों वाली रिकवरी कुंजी डालें।</div>",
+  ">What is my Recovery Key?</a>": ">रिकवरी कुंजी क्या है?</a>",
+  "<span>Recovery Key</span>": "<span>रिकवरी कुंजी</span>",
+  "placeholder=\"word word word ...\"": "placeholder=\"शब्द शब्द शब्द …\"",
+  ">Next</button>": ">आगे</button>"
+}

@@ -1,0 +1,11 @@
+{
+  "          Address ${playerSearchResultDTO.address}\n": "          पता ${playerSearchResultDTO.address}\n",
+  ": 'Name Redacted'": ": 'नाम गुप्त'",
+  ">View</a>": ">देखें</a>",
+  "<div>No results found. Please try a different search term.</div>": "<div>कुछ नहीं मिला। कुछ और लिखकर खोजें।</div>",
+  "<div>Showing the first 25 results. Try narrowing your search for better results.</div>": "<div>पहले 25 नतीजे दिख रहे हैं। बेहतर नतीजों के लिए खोज को और सटीक करें।</div>",
+  "MenuPage.setPageTemplateHeaderBtn('Search Results',": "MenuPage.setPageTemplateHeaderBtn('खोज के नतीजे',",
+  "$keep": [
+    "PID #"
+  ]
+}

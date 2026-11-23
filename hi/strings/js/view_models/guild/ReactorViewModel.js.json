@@ -1,0 +1,23 @@
+{
+  "alt=\"alpha reactor\"": "alt=\"अल्फ़ा रिएक्टर\"",
+  "sui-text-secondary\">ALPHA MATTER</div>": "sui-text-secondary\">अल्फ़ा मैटर</div>",
+  "<div class=\"sui-text-hint\">Alpha Infused</div>": "<div class=\"sui-text-hint\">डाला गया अल्फ़ा</div>",
+  "'Alpha infused with the guild',": "'गिल्ड में डाला गया अल्फ़ा',",
+  "                      Cooldown\n": "                      कूलडाउन\n",
+  "data-sui-tooltip=\"When removed from a Reactor, Alpha Matter must cool down before use.\"": "data-sui-tooltip=\"रिएक्टर से निकला अल्फ़ा मैटर कूलडाउन के बाद ही इस्तेमाल हो सकता है।\"",
+  "'Alpha removed from the reactor that must cooldown before reuse',": "'रिएक्टर से निकला अल्फ़ा, जो कूलडाउन के बाद फिर इस्तेमाल हो सकेगा',",
+  "sui-text-secondary\">ENERGY</div>": "sui-text-secondary\">ऊर्जा</div>",
+  "<div class=\"sui-text-hint\">Total Supply</div>": "<div class=\"sui-text-hint\">कुल सप्लाई</div>",
+  "'Expected supply of power',": "'अनुमानित पावर सप्लाई',",
+  ">Manage Alpha</a>": ">अल्फ़ा मैनेज करें</a>",
+  "sui-text-header\">Reactor Details</div>": "sui-text-header\">रिएक्टर की जानकारी</div>",
+  "                  Guild Minimum\n": "                  न्यूनतम अल्फ़ा\n",
+  "data-sui-tooltip=\"The minimum Alpha Matter that must be infused for Guild Membership.\"": "data-sui-tooltip=\"गिल्ड मेंबर बनने के लिए कम से कम इतना अल्फ़ा मैटर डालना ज़रूरी है।\"",
+  "'Minimum alpha required to join guild',": "'गिल्ड से जुड़ने के लिए ज़रूरी न्यूनतम अल्फ़ा',",
+  "                  Reactor Efficiency\n": "                  रिएक्टर दक्षता\n",
+  "data-sui-tooltip=\"The amount of Energy supplied for each additional Alpha Matter infused.\"": "data-sui-tooltip=\"हर अतिरिक्त अल्फ़ा मैटर डालने पर मिलने वाली ऊर्जा।\"",
+  "                  Commission\n": "                  कमीशन\n",
+  "data-sui-tooltip=\"The percentage of Energy taken by the guild.\"": "data-sui-tooltip=\"ऊर्जा का वह प्रतिशत, जो गिल्ड रखती है।\"",
+  "'The guild\\'s cut',": "'गिल्ड का हिस्सा',",
+  "MenuPage.setPageTemplateHeaderBtn('Alpha Reactor',": "MenuPage.setPageTemplateHeaderBtn('अल्फ़ा रिएक्टर',"
+}

@@ -1,0 +1,21 @@
+{
+  "'Multiple Raids by members of your Guild against the same planet do not earn additional points.'": "'आपकी गिल्ड के कई मेंबर एक ही ग्रह पर धावा बोलें, तो अतिरिक्त अंक नहीं मिलते।'",
+  "'Awarded for each planet your Guild was the last to successfully Raid at contest end.'": "'हर उस ग्रह के लिए मिलता है, जिस पर इवेंट ख़त्म होने तक आख़िरी सफल धावा आपकी गिल्ड का हो।'",
+  "'Your points earned in this sector.'": "'इस सेक्टर में मिले आपके अंक।'",
+  "'Your points earned across all sectors.'": "'सभी सेक्टरों में मिले आपके अंक।'",
+  "${SectorBlitzFormat.escape(points)} IP</div>": "${SectorBlitzFormat.escape(points)} IP</div>",
+  "MenuPage.setPageTemplateHeaderBtn('Event Rules',": "MenuPage.setPageTemplateHeaderBtn('इवेंट के नियम',",
+  "${SECTOR_BLITZ.NAME} is a time-limited event where Guilds compete to acquire": "${SECTOR_BLITZ.NAME} सीमित समय का इवेंट है, जिसमें गिल्ड गैलेक्टिक सेक्टरों में",
+  "<span class=\"sui-text-warning\">Influence Points</span>\n                across galactic sectors.": "<span class=\"sui-text-warning\">प्रभाव अंक</span>\n                पाने के लिए मुकाबला करती हैं।",
+  "<span>Launch at least 1 Raid to qualify.</span>": "<span>क्वालिफ़ाई करने के लिए कम से कम 1 धावा बोलें।</span>",
+  "<span>Earn points for each unique rival planet successfully Raided by your Guild.</span>": "<span>हर अलग विरोधी ग्रह पर अपनी गिल्ड के सफल धावे के लिए अंक पाएँ।</span>",
+  "<span>The Guild with the most points in a sector controls that sector.</span>": "<span>किसी सेक्टर में सबसे ज़्यादा अंक वाली गिल्ड का उस सेक्टर पर कब्ज़ा होता है।</span>",
+  "<span>The Guild that controls the most sectors when the event ends wins the ${SECTOR_BLITZ.NAME}.</span>": "<span>इवेंट ख़त्म होने पर सबसे ज़्यादा सेक्टरों पर कब्ज़ा रखने वाली गिल्ड ${SECTOR_BLITZ.NAME} जीतती है।</span>",
+  "<span class=\"sui-text-warning\">TIP:</span> Use the \"SCAN\" button on the Fleet Menu to find opponents.": "<span class=\"sui-text-warning\">सुझाव:</span> विरोधी खोजने के लिए फ़्लीट मेन्यू में “स्कैन” बटन दबाएँ।",
+  "sui-text-header\">Scoring</div>": "sui-text-header\">स्कोरिंग</div>",
+  "this.renderScoringRowHTML('Win an Offensive Raid',": "this.renderScoringRowHTML('आक्रामक धावे में जीत',",
+  "this.renderScoringRowHTML('King of the Hill Bonus',": "this.renderScoringRowHTML('किंग ऑफ़ द हिल बोनस',",
+  "$keep": [
+    "IP"
+  ]
+}

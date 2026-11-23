@@ -1,0 +1,10 @@
+{
+  "view.headerBtnLabel = 'Log Out';": "view.headerBtnLabel = 'लॉग आउट';",
+  "view.messageHeaderText = 'Log out of this device?';": "view.messageHeaderText = 'इस डिवाइस से लॉग आउट करें?';",
+  "This device's key will be removed from this browser. To play here again you will need your": "इस डिवाइस की कुंजी इस ब्राउज़र से हटा दी जाएगी। यहाँ फिर से खेलने के लिए आपको अपनी",
+  "data-sui-tooltip=\"The words you saved when you created your account.\"": "data-sui-tooltip=\"अकाउंट बनाते समय सेव किए गए शब्द।\"",
+  ">Recovery Key</a>": ">रिकवरी कुंजी</a>",
+  "or approval from another device.": "या किसी दूसरे डिवाइस की मंज़ूरी चाहिए होगी।",
+  "view.confirmBtn1Label = 'Stay Logged In';": "view.confirmBtn1Label = 'लॉग इन रहें';",
+  "view.confirmBtn2Label = 'Log Out';": "view.confirmBtn2Label = 'लॉग आउट';"
+}
