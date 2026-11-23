@@ -11,10 +11,10 @@
 const guild = {
   founded: true,
   id: '0-17',
-  name: 'गैलेक्सी एंड संस',
-  // The name on chain: the chain takes letters, digits, - _ ' and spaces but no
-  // combining marks, which most Hindi vowel signs are (structsd ugc.go).
-  chainName: 'Galaxy and Sons',
+  // Latin for now, the same as on chain: the chain takes no combining marks in
+  // names, which most Hindi vowel signs are (structsd ugc.go). In Hindi it is
+  // गैलेक्सी एंड संस, which the page and guild.json could carry.
+  name: 'Galaxy and Sons',
   tag: 'GNS',
   motto: 'सन् 1987 से आपकी सेवा में।',
   badge: '/hi/img/gns-badge.png',

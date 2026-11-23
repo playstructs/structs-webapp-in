@@ -22,6 +22,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const {UPSTREAM_SRC, STRINGS_DIR, readStringsFile, translate} = require('./translate.cjs');
+const guild = require('./guild.cjs');
 const acorn = require(require.resolve('acorn', {paths: [UPSTREAM_SRC]}));
 
 const args = process.argv.slice(2);
@@ -193,8 +194,8 @@ const tags = text => multiset([...text.matchAll(/<(\/?[a-zA-Z][\w-]*)/g)].map(([
 const edge = text => /^['"`]/.test(text) ? text[0] : '';
 const tail = text => /['"`]$/.test(text) ? text.at(-1) : '';
 
-/** Hindi with lowercase English words left in it, units aside. */
-const halfEnglish = text => /[\u0900-\u097F]/.test(text) && /[a-z]{3,}/.test(text);
+/** Hindi with lowercase English words left in it, units and the guild's name aside. */
+const halfEnglish = text => /[\u0900-\u097F]/.test(text) && /[a-z]{3,}/.test(text.replaceAll(guild.name, ''));
 
 /** What a translation has to carry over from its key. */
 function mismatch(from, to) {

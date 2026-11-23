@@ -23,8 +23,8 @@ npm run dev          # http://localhost:5196
 
 ## Which guild
 
-The site, `galaxyandsons.structs.zone`, is the Indian players' own guild's, गैलेक्सी एंड संस ("Galaxy & Sons",
-`GNS`). Its name, tag, motto ("सन् 1987 से आपकी सेवा में।", "At your service
+The site, `galaxyandsons.structs.zone`, is the Indian players' own guild's,
+Galaxy and Sons (`GNS`). Its name, tag, motto ("सन् 1987 से आपकी सेवा में।", "At your service
 since 1987."), badge, token, id and hostname are all in
 [`hi/guild.cjs`](hi/guild.cjs), and the site's `/guild.json` is made from them.
 
@@ -64,9 +64,9 @@ minimum, or the chain can't be read (`hi/runtime/recovery.js`).
 ### Hindi names
 
 The chain refuses combining marks in names (structsd `ugc.go`), and most Hindi
-vowel signs are combining marks. So the guild is `Galaxy and Sons` on chain
-(`chainName`), and only its `guild.json` and the page call it गैलेक्सी एंड संस. For the
-same reason players' names are in practice in A-Z.
+vowel signs are combining marks. So the guild is `Galaxy and Sons` on chain, and
+for now in its `guild.json` and on the page too (`name`); in Hindi it is
+गैलेक्सी एंड संस. For the same reason players' names are in practice in A-Z.
 
 ## Sign-up and the player's key
 

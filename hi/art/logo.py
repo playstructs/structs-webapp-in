@@ -3,7 +3,7 @@
 webapp's badge (public/img/logo-snc.gif) is 32x32 pixel art: "sn.c" in a
 one-pixel box, in the interface's steel blue (115, 148, 165), shown at 192px
 in sign-up with the motto over its lower rows (from row 23). This draws
-गैलेक्सी एंड संस (Galaxy & Sons) the same way, above row 22: "G&S" in a box,
+Galaxy and Sons the same way, above row 22: "G&S" in a box,
 like a family firm's shop sign, with 1987 under it.
 
   - hi/public/hi/img/gns-badge.png: 192x192, sign-up's badge
