@@ -117,6 +117,8 @@ is in `runtime/terms.json`; this page is for everything else and agrees with it.
 | Sector, Sector Map | सेक्टर (m), सेक्टर मैप |
 | Sector Blitz, Operation: Sector Blitz | सेक्टर ब्लिट्ज़, ऑपरेशन: सेक्टर ब्लिट्ज़ |
 | Influence Points (IP) | प्रभाव अंक (IP) |
+| Sectors Controlled | कब्ज़े वाले सेक्टर |
+| Position (leaderboard) | स्थान (m) |
 | King of the Hill / KOTH Bonus | किंग ऑफ़ द हिल बोनस / KOTH बोनस |
 | Event Rules / Results | इवेंट के नियम / नतीजे |
 | Scoring, Score | स्कोरिंग, स्कोर (m) |
