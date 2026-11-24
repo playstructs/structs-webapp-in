@@ -1,5 +1,7 @@
 {
   "alt=\"3 dots loading animation\"": "alt=\"लोड हो रहा है\"",
+  "'Insufficient Energy. Deactivate Structs to reduce Energy draw.'": "'ऊर्जा कम है। ऊर्जा की खपत घटाने के लिए कुछ स्ट्रक्ट बंद करें।'",
+  "alphaBaseCard.alertMessage = 'Failed to depart.';": "alphaBaseCard.alertMessage = 'रवाना नहीं हो सके।';",
   "primaryBtnLabel = 'Command';": "primaryBtnLabel = 'कमान लें';",
   "alphaBaseCard.alertMessage = 'All Alpha extracted.';": "alphaBaseCard.alertMessage = 'सारा अल्फ़ा निकल चुका है।';",
   "secondaryBtnLabel = 'Depart';": "secondaryBtnLabel = 'रवाना हों';",
